@@ -1,0 +1,24 @@
+/* page */
+
+#pageMap {
+	width: 100%;
+	height: 100%;
+	text-shadow: none !important;
+}
+
+/* map */
+
+#mapContainer {
+	width: 100%;
+	height: 100%;
+	padding: 0px !important;
+}
+
+/* leaflet */
+
+.leaflet-control-attribution, .leaflet-container a {
+	font-weight: 400;
+	color: #38aadd !important;
+}
+
+/* */
